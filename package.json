@@ -1,0 +1,26 @@
+{
+  "name": "tiktok-search",
+  "version": "1.0.0",
+  "description": "Um programa em Node.js que utiliza a API do TikTok para pesquisar vídeos com uma hashtag específica.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seu_usuario/tiktok-search.git"
+  },
+  "keywords": [
+    "tiktok",
+    "api",
+    "node.js",
+    "hashtag",
+    "search"
+  ],
+  "author": "Dario Alves Junior",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "tiktok-api": "^0.4.1"
+  }
+}

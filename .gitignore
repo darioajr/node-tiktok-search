@@ -1,0 +1,13 @@
+# Arquivos e pastas do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos e pastas de logs
+logs
+*.log
+
+# Pasta node_modules
+node_modules/
+
+# Arquivos de ambiente
+.env
